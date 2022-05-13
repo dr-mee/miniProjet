@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projectAndroidGestionStock</string>
+    <string name="host">http://192.168.83.120/Stock/</string>
+
+</resources>
